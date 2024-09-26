@@ -1,0 +1,14 @@
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\BlogApp.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\BlogApp.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\BlogApp.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\BlogApp.Core.Domain.AssemblyInfo.cs
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\BlogApp.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\bin\Debug\net8.0\BlogApp.Core.Domain.deps.json
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\bin\Debug\net8.0\BlogApp.Core.Domain.runtimeconfig.json
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\bin\Debug\net8.0\BlogApp.Core.Domain.dll
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\bin\Debug\net8.0\BlogApp.Core.Domain.pdb
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\BlogApp.Core.Domain.dll
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\refint\BlogApp.Core.Domain.dll
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\BlogApp.Core.Domain.pdb
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\BlogApp.Core.Domain.genruntimeconfig.cache
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Core.Domain\obj\Debug\net8.0\ref\BlogApp.Core.Domain.dll

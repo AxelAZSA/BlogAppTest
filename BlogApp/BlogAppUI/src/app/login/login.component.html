@@ -1,0 +1,100 @@
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="card" style="width: 28rem;">
+      <div class="card-body">
+  
+        <h3 class="text-center mb-3">{{ isRegistering ? 'Register' : 'Login' }} <i class="fas fa-user"></i></h3>
+  
+        <!-- Formulario de Login -->
+        <form *ngIf="!isRegistering" [formGroup]="loginForm" (ngSubmit)="onLogin()">
+          <div class="text-center mb-3">
+            <p>Sign in with:</p>
+          </div>
+  
+          <p class="text-center">or:</p>
+  
+          <!-- Email input -->
+          <div class="form-outline mb-4">
+            <input type="email" id="loginEmail" class="form-control" formControlName="email"/>
+            <label class="form-label" for="loginEmail">Email</label>
+          </div>
+  
+          <!-- Password input -->
+          <div class="form-outline mb-4">
+            <input type="password" id="loginPassword" class="form-control" formControlName="password"/>
+            <label class="form-label" for="loginPassword" >Password</label>
+          </div>
+  
+          <!-- Checkbox -->
+          <div class="form-check d-flex justify-content-center mb-4">
+            <input class="form-check-input me-2" type="checkbox" id="loginCheck" checked />
+            <label class="form-check-label" for="loginCheck"> Remember me </label>
+          </div>
+  
+          <!-- Submit button -->
+          <button type="submit" class="btn btn-primary btn-block mb-4" [disabled]="loginForm.invalid">Sign in</button>
+  
+          <!-- Switch to register -->
+          <div class="text-center">
+            <p>Not a member? <a href="javascript:void(0)" (click)="switchForm()">Register</a></p>
+          </div>
+        </form>
+  
+        <!-- Formulario de Registro -->
+        <form *ngIf="isRegistering" [formGroup]="registerForm" (ngSubmit)="onRegister()">
+          <div class="text-center mb-3">
+            <p>Sign up with:</p>
+          </div>
+  
+          <p class="text-center">or:</p>
+  
+          <!-- Name input -->
+          <div class="form-outline mb-4">
+            <input type="text" id="firstName" class="form-control" formControlName="firstName" />
+            <label class="form-label" for="firstName">First Name</label>
+          </div>
+  
+          <!-- Username input -->
+          <div class="form-outline mb-4">
+            <input type="text" id="lastName" class="form-control"formControlName="lastName" />
+            <label class="form-label" for="lastName">Last Name</label>
+          </div>
+  
+          <!-- Email input -->
+          <div class="form-outline mb-4">
+            <input type="email" id="registerEmail" class="form-control" formControlName="email" />
+            <label class="form-label" for="registerEmail">Email</label>
+          </div>
+  
+          <!-- Password input -->
+          <div class="form-outline mb-4">
+            <input type="password" id="registerPassword" class="form-control" formControlName="password" />
+            <label class="form-label" for="registerPassword">Password</label>
+          </div>
+  
+          <!-- Repeat Password input -->
+          <div class="form-outline mb-4">
+            <input type="password" id="registerRepeatPassword" class="form-control" formControlName="confirmPassword" />
+            <label class="form-label" for="registerRepeatPassword">Repeat password</label>
+          </div>
+  
+          <!-- Checkbox -->
+          <div class="form-check d-flex justify-content-center mb-4">
+            <input class="form-check-input me-2" type="checkbox" id="registerCheck" checked />
+            <label class="form-check-label" for="registerCheck">
+              I have read and agree to the terms
+            </label>
+          </div>
+  
+          <!-- Submit button -->
+          <button type="submit" class="btn btn-primary btn-block mb-3" [disabled]="registerForm.invalid">Sign up</button>
+  
+          <!-- Switch to login -->
+          <div class="text-center">
+            <p>Already a member? <a href="javascript:void(0)" (click)="switchForm()">Login</a></p>
+          </div>
+        </form>
+  
+      </div>
+    </div>
+  </div>
+  

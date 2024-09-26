@@ -1,0 +1,17 @@
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\bin\Debug\net8.0\BlogApp.Infrastructure.Persistence.deps.json
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\bin\Debug\net8.0\BlogApp.Infrastructure.Persistence.runtimeconfig.json
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\bin\Debug\net8.0\BlogApp.Infrastructure.Persistence.dll
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\bin\Debug\net8.0\BlogApp.Infrastructure.Persistence.pdb
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\bin\Debug\net8.0\BlogApp.Core.Domain.dll
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\bin\Debug\net8.0\BlogApp.Core.Domain.pdb
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp..9C01482A.Up2Date
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp.Infrastructure.Persistence.dll
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\refint\BlogApp.Infrastructure.Persistence.dll
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp.Infrastructure.Persistence.pdb
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\BlogApp.Infrastructure.Persistence.genruntimeconfig.cache
+C:\Users\EAS Consulting\source\repos\BlogApp\BlogAppCore\BlogApp.Infrastructure.Persistence\obj\Debug\net8.0\ref\BlogApp.Infrastructure.Persistence.dll
